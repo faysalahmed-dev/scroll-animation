@@ -1,7 +1,9 @@
+import MouseMove from './components/MouseMove'
+
 function App() {
   return (
     <>
-      scroll animation
+      <MouseMove />
     </>
   )
 }
